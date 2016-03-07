@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">To Watch List IMDB</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="plot">Enredo</string>
+    <string name="actors">Atores</string>
+    <string name="awards">Prêmios</string>
+    <string name="score_movie">Pontuações</string>
+    <string name="metascore">Metascore:&#160;</string>
+    <string name="score">Pontuação:&#160;</string>
+    <string name="users">Usuários:&#160;</string>
+    <string name="save_movie">SALVAR FILME</string>
+
+    <string name="search_movie">Procurar Filme</string>
+    <string name="search_movie_title">Busque pelo título do filme</string>
+    <string name="movie_list_empty">Lista de filmes vazia</string>
+
+    <string name="successful_save">Salvo com sucesso</string>
+    <string name="exists_movie">Filme já existe na sua lista</string>
+
+    <string name="connect_verify">Verifique sua conexão com a internet</string>
+
+    <string name="search_not_found">Não foi efetuar a busca, por favor tente novamente.</string>
+
+    <string name="loading">Carregando…</string>
+    <string name="wait">Por favor aguarde…</string>
+
+    <string name="generic_error">Um error ocorreu</string>
+    <string name="field_not_filled">Por favor preencha o campo de busca.</string>
+</resources>
